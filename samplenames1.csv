@@ -1,0 +1,166 @@
+sample_name,sample_type1,sample_type,body_site,Animal ,chute_order,liver_score,LAYoN,lung_score,heart_score,comments,live_weight,discription,HCWL,HCWR,HCWA
+LIFl01,Sample,LIFL,Colon,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+LITi01,Sample,LITI,Colon,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+RuFl01,Sample,RUFL,Rumen,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+RuTi01,Sample,RUTI,Rumen,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+SIFl01,Sample,SIFL,Jejunum,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+SITi01,Sample,SITI,Jejunum,1A,1,Edible,No,Normal,Normal,,1458,Char Steer Mexican Origin,459,485.5,472.25
+Fec02,Sample,Fecal,Fecal,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+LIFl02,Sample,LIFL,Colon,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+LITi02,Sample,LITI,Colon,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+RuFl02,Sample,RUFL,Rumen,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+RuTi02,Sample,RUTI,Rumen,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+SIFl02,Sample,SIFL,Jejunum,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+SITi02,Sample,SITI,Jejunum,2A,2,Edible,No,Normal,Normal,Scar tissue on liver,1339,Black Steer,436.5,437.5,437
+Fec03,Sample,Fecal,Fecal,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+LIFl03,Sample,LIFL,Colon,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+LITi03,Sample,LITI,Colon,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+RuFl03,Sample,RUFL,Rumen,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+RuTi03,Sample,RUTI,Rumen,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+SIFl03,Sample,SIFL,Jejunum,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+SITi03,Sample,SITI,Jejunum,3A,3,Flukes,No,Normal,Normal,,1420.5,Red Steer,483.5,471,477.25
+Fec04,Sample,Fecal,Fecal,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+LIFl04,Sample,LIFL,Colon,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+LITi04,Sample,LITI,Colon,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+RuFl04,Sample,RUFL,Rumen,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+RuTi04,Sample,RUTI,Rumen,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+SIFl04,Sample,SIFL,Jejunum,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+SITi04,Sample,SITI,Jejunum,4A,4,Edible,No,Normal,Normal,,1514.5,"Black Brockle Steer, Bottle Calf",440.5,466,453.25
+Fec06,Sample,Fecal,Fecal,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+LA6-1,Sample,Liver_Abscess,Liver_Abscess,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+LA6-2,Sample,Liver_Abscess,Liver_Abscess,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+LIFl06,Sample,LIFL,Colon,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+LITi06,Sample,LITI,Colon,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+RuFl06,Sample,RUFL,Rumen,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+RuTi06,Sample,RUTI,Rumen,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+SIFl06,Sample,SIFL,Jejunum,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+SITi06,Sample,SITI,Jejunum,6A,6,A+ AD,Yes,Normal,Normal,Liver adhered to the lung and diaphram,1540,"White socked, White belly steer, Angus",461,470,465.5
+Fec07,Sample,Fecal,Fecal,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+LIFl07,Sample,LIFL,Colon,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+LITi07,Sample,LITI,Colon,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+RuFl07,Sample,RUFL,Rumen,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+RuTi07,Sample,RUTI,Rumen,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+SIFl07,Sample,SIFL,Jejunum,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+SITi07,Sample,SITI,Jejunum,7A,7,Edible,No,Normal,Normal,Tlang liver,1475.5,Black Steer,477,486,481.5
+Fec08,Sample,Fecal,Fecal,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+LIFl08,Sample,LIFL,Colon,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+LITi08,Sample,LITI,Colon,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+RuFl08,Sample,RUFL,Rumen,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+RuTi08,Sample,RUTI,Rumen,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+SITi08,Sample,SITI,Jejunum,8A,8,Edible,No,Normal,Normal,,1364,"Smoke Steer, Crazy",438,424,431
+Fec09,Sample,Fecal,Fecal,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+LIFl09,Sample,LIFL,Colon,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+LITi09,Sample,LITI,Colon,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+RuFl09,Sample,RUFL,Rumen,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+RuTi09,Sample,RUTI,Rumen,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+SIFl09,Sample,SIFL,Jejunum,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+SITi09,Sample,SITI,Jejunum,9A,9,A-,Yes,Normal,Normal,scarring on liver/ healed abscesses,1307,Black Steer,444,438,441
+Fec10,Sample,Fecal,Fecal,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+LIFl10,Sample,LIFL,Colon,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+LITi10,Sample,LITI,Colon,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+RuFl10,Sample,RUFL,Rumen,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+RuTi10,Sample,RUTI,Rumen,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+SIFl10,Sample,SIFL,Jejunum,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+SITi10,Sample,SITI,Jejunum,10A,10,A-,Yes,Normal,Normal,,1338,Black Steer,461.5,446,453.75
+LIFl11,Sample,LIFL,Colon,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+LITi11,Sample,LITI,Colon,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+RuFl11,Sample,RUFL,Rumen,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+RuTi11,Sample,RUTI,Rumen,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+SIFl11,Sample,SIFL,Jejunum,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+SITi11,Sample,SITI,Jejunum,11A,11,Edible,No,Normal,Normal,Tlang liver,1676,"Char Steer, Black Nose",565,577,571
+Fec12,Sample,Fecal,Fecal,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+LIFl12,Sample,LIFL,Colon,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+LITi12,Sample,LITI,Colon,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+RuFl12,Sample,RUFL,Rumen,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+RuTi12,Sample,RUTI,Rumen,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+SIFl12,Sample,SIFL,Jejunum,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+SITi12,Sample,SITI,Jejunum,12A,12,Edible,No,Normal,Normal,,1300,"Black Steer, Origin: Alabama",443.5,425,434.25
+Fec13,Sample,Fecal,Fecal,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+LIFl13,Sample,LIFL,Colon,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+LITi13,Sample,LITI,Colon,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+RuFl13,Sample,RUFL,Rumen,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+RuTi13,Sample,RUTI,Rumen,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+SIFl13,Sample,SIFL,Jejunum,13A,13,Edible,No,Normal,Normal,,1313.5,Char Steer,437.5,425,431.25
+Fec14,Sample,Fecal,Fecal,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+LIFl14,Sample,LIFL,Colon,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+LITi14,Sample,LITI,Colon,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+RuFl14,Sample,RUFL,Rumen,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+RuTi14,Sample,RUTI,Rumen,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+SIFl14,Sample,SIFL,Jejunum,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+SITi14,Sample,SITI,Jejunum,14A,14,Edible,No,Normal,Normal,,1487,Akaushi Char cross Steer,480,480,480
+Fec15,Sample,Fecal,Fecal,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+LIFl15,Sample,LIFL,Colon,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+LITi15,Sample,LITI,Colon,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+RuFl15,Sample,RUFL,Rumen,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+RuTi15,Sample,RUTI,Rumen,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+SIFl15,Sample,SIFL,Jejunum,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+SITi15,Sample,SITI,Jejunum,15A,15,Edible,No,Conaminated,Normal,,1417,"Black Steer, Jersey Limi cross",442,436,439
+Fec16,Sample,Fecal,Fecal,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+LIFl16,Sample,LIFL,Colon,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+LITi16,Sample,LITI,Colon,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+RuFl16,Sample,RUFL,Rumen,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+RuTi16,Sample,RUTI,Rumen,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+SIFl16,Sample,SIFL,Jejunum,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+SITi16,Sample,SITI,Jejunum,16A,16,Edible,No,Normal,Normal,"Contaminated with digesta, weird color to small intestine",1303,Red Brahman Steer,435,445,440
+Fec17,Sample,Fecal,Fecal,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+LA17-1,Sample,Liver_Abscess,Liver_Abscess,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+LA17-2,Sample,Liver_Abscess,Liver_Abscess,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+LIFl17,Sample,LIFL,Colon,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+LITi17,Sample,LITI,Colon,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+RuFl17,Sample,RUFL,Rumen,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+RuTi17,Sample,RUTI,Rumen,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+SIFl17,Sample,SIFL,Jejunum,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+SITi17,Sample,SITI,Jejunum,17A,17,A-,Yes,Normal,Normal,,1473,Black Steer,474,476,475
+Fec18,Sample,Fecal,Fecal,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-1,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-2,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-3,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-4,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-5,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LA18-6,Sample,Liver_Abscess,Liver_Abscess,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LIFl18,Sample,LIFL,Colon,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+LITi18,Sample,LITI,Colon,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+RuFl18,Sample,RUFL,Rumen,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+RuTi18,Sample,RUTI,Rumen,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+SIFl18,Sample,SIFL,Jejunum,18A,18,A+ AD,Yes,Abscessed,Normal,Flukes,1269.5,Black Steer,430,414,422
+Fec19,Sample,Fecal,Fecal,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+LIFl19,Sample,LIFL,Colon,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+LITi19,Sample,LITI,Colon,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+RuFl19,Sample,RUFL,Rumen,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+RuTi19,Sample,RUTI,Rumen,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+SIFl19,Sample,SIFL,Jejunum,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+SITi19,Sample,SITI,Jejunum,19A,19,Edible,No,Normal,Normal,,1482,Black Steer,490,492,491
+Fec20,Sample,Fecal,Fecal,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+LIFl20,Sample,LIFL,Colon,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+LITi20,Sample,LITI,Colon,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+RuFl20,Sample,RUFL,Rumen,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+RuTi20,Sample,RUTI,Rumen,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+SIFl20,Sample,SIFL,Jejunum,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+SITi20,Sample,SITI,Jejunum,20A,20,Edible,No,Normal,Normal,Milk in glands,1550,Black Steer,537,530,533.5
+Fec21,Sample,Fecal,Fecal,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+LIFl21,Sample,LIFL,Colon,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+LITi21,Sample,LITI,Colon,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+RuFl21,Sample,RUFL,Rumen,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+RuTi21,Sample,RUTI,Rumen,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+SIFl21,Sample,SIFL,Jejunum,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+SITi21,Sample,SITI,Jejunum,21A,21,Edible,No,Normal,Normal,Contaminated ,1448.5,Black Steer,473.5,460,466.75
+Fec22,Sample,Fecal,Fecal,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+LIFl22,Sample,LIFL,Colon,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+LITi22,Sample,LITI,Colon,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+RuFl22,Sample,RUFL,Rumen,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+RuTi22,Sample,RUTI,Rumen,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+SIFl22,Sample,SIFL,Jejunum,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+SITi22,Sample,SITI,Jejunum,22A,22,Edible,No,Normal,Normal,,1469,Horned Black Steer,438.5,451,444.75
+EB2,Control,,,,,,,,,,,,,,
+Fec05,Screw_up,Fecal,Fecal,,,,,,,,,,,,
+LIFlEB6,Control,,,,,,,,,,,,,,
+NTC11,Control,,,,,,,,,,,,,,
+NTC12,Control,,,,,,,,,,,,,,
+NTC15,Control,,,,,,,,,,,,,,
+NTC2,Control,,,,,,,,,,,,,,
+NTC3,Control,,,,,,,,,,,,,,
+NTC4,Control,,,,,,,,,,,,,,
+NTC5,Control,,,,,,,,,,,,,,
+NTC6,Control,,,,,,,,,,,,,,
+NTC7,Control,,,,,,,,,,,,,,
+NTC9,Control,,,,,,,,,,,,,,
