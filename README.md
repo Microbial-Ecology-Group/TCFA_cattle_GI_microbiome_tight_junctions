@@ -1,2 +1,2 @@
-# TCFA_cattle_GI_microbiome_tight_junctions
-This code is for the analysis of the data for the manuscript titled: Characterizing the microbial communities and expression of tight junction proteins in the gastrointestinal tract of feedlot cattle.
+# Manuscript code
+This code is for the analysis of the data for the manuscript titled: Characterizing the microbial communities and expression of tight junction proteins in the gastrointestinal tract of feedlot cattle. This code has been separated into 5 parts, one for analyzing the 16S rRNA gene sequencing data, one for analyzing the RT- qPCR data, one for analyzing the immunohistochemistry data from the computerized analysis, one for analyzing the immunohistochemistry data from pathologist evaluation, and one for comparing the computerized analysis to the pathologist data.
